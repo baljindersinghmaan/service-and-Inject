@@ -37,8 +37,5 @@ public class CalculatorController : ControllerBase
         return _calculatorService.Divide(left, right);
     }
     
-    
-
-    
 
 }
